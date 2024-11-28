@@ -1,0 +1,2 @@
+Ветка master собрана из сборной ветки boots_buttons (ветка buttons + ветка boots) + ветка hat
+К ветка demo сначало была добавлена ветка hat потом ветка boots и потом ветка buttons
