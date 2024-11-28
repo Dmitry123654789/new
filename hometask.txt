@@ -1,2 +1,16 @@
 Ветка master собрана из сборной ветки boots_buttons (ветка buttons + ветка boots) + ветка hat
 К ветка demo сначало была добавлена ветка hat потом ветка boots и потом ветка buttons
+
+Комментарии:
+
+Add hometask.txt
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
